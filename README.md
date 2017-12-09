@@ -1,4 +1,6 @@
 # hello-world
-my first git tutorial
-my first change in readme file 
-my branch 
+public class Employee
+{
+    private String employeeName;(get;set;}
+    private String employeeID{get;set;}
+}
